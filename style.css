@@ -101,16 +101,6 @@ footer {
     background-color: #949494;
 }
 
-.footer-container {
-    max-width: 1300px;
-    margin: auto;
-    padding: 90px 0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap-reverse;
-}
-
 .logo {
     width: 130px;
 }
