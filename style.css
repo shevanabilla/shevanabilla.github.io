@@ -96,6 +96,8 @@ li:hover{
 footer {
     background-color: #949494;
     padding: 70px 0;
+    padding-bottom: 10px;
+    padding-top: 20px;
 }
 
 .footer-container {
@@ -109,7 +111,7 @@ footer {
 }
 
 .logo {
-    width: 100px;
+    width: 130px;
 }
 
 .rights-text {
