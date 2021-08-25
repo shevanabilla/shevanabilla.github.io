@@ -103,6 +103,7 @@ footer {
 
 .logo {
     width: 130px;
+    float: left;
 }
 
 .rights-text {
